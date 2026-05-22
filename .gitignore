@@ -1,0 +1,15 @@
+*.png
+*.jpg
+*.jpeg
+*.pth
+huggingface/
+terraform.tfvars
+backend_config.tfvars
+.terraform*
+.DS_Store
+.vscode
+Pipfile.lock
+__pycache__/
+.env
+.deps/
+.venv/
